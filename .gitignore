@@ -1,0 +1,9 @@
+.gitignore
+.idea/
+README.md
+app/
+bin/
+phpunit.xml.dist
+src/
+var/
+vendor/
