@@ -1,12 +1,12 @@
 # This file is auto-generated during the composer install
 parameters:
-    database_host: 127.0.0.1
-    database_port: null
-    database_name: symfony
+    database_host: localhost
+    database_port: 3306
+    database_name: form
     database_user: root
-    database_password: null
+    database_password: P@rola2017
     mailer_transport: smtp
     mailer_host: 127.0.0.1
-    mailer_user: null
+    mailer_user: mainerici.angel@gmail.com
     mailer_password: null
     secret: 059417fee5a33e731805af1372fe5cfc36092f66
